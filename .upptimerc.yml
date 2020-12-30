@@ -10,6 +10,10 @@ sites:
     url: https://www.pembroke-animal-hospital.com/
   - name: DD
     url: https://dougdragon.com
+  - name: VNUX.dev
+    url: https://vnux.dev
+  - name: JustBlameBen4Everything
+    url: https://justblameben4everything.site/
  
 assignees:
   - dougdragon
