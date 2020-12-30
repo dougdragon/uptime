@@ -10,8 +10,6 @@ sites:
     url: https://www.pembroke-animal-hospital.com/
   - name: DD
     url: https://dougdragon.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
  
 assignees:
   - dougdragon
