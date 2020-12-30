@@ -12,6 +12,9 @@ sites:
     url: https://dougdragon.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
+ 
+assignees:
+  - dougdragon
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
