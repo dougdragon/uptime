@@ -4,7 +4,7 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: H@Health
+  - name: H2Health
     url: https://h2health.org
   - name: PAH
     url: https://www.pembroke-animal-hospital.com/
