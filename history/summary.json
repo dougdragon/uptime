@@ -58,19 +58,19 @@
     "url": "https://vnux.dev",
     "icon": "https://favicons.githubusercontent.com/vnux.dev",
     "slug": "vnux-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 278,
-    "timeWeek": 225,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 318,
+    "timeDay": 794,
+    "timeWeek": 360,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2021-01-20": 0
+      "2021-01-20": 60
     }
   },
   {
