@@ -63,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/vnux.dev",
     "slug": "vnux-dev",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 309,
     "timeDay": 241,
     "timeWeek": 261,
@@ -82,9 +82,9 @@
     "url": "https://justblameben4everything.site/",
     "icon": "https://favicons.githubusercontent.com/justblameben4everything.site",
     "slug": "just-blame-ben4-everything",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,6 +93,8 @@
     "timeWeek": 1418,
     "timeMonth": 555,
     "timeYear": 555,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-28": 0
+    }
   }
 ]
