@@ -4,10 +4,10 @@
     "url": "https://h2health.org",
     "icon": "https://favicons.githubusercontent.com/h2health.org",
     "slug": "h2-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 800,
@@ -16,6 +16,7 @@
     "timeMonth": 803,
     "timeYear": 800,
     "dailyMinutesDown": {
+      "2021-02-04": 2,
       "2021-01-29": 16,
       "2021-01-26": 18
     }
@@ -25,10 +26,10 @@
     "url": "https://www.pembroke-animal-hospital.com/",
     "icon": "https://favicons.githubusercontent.com/www.pembroke-animal-hospital.com",
     "slug": "pah",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 908,
@@ -37,6 +38,7 @@
     "timeMonth": 869,
     "timeYear": 908,
     "dailyMinutesDown": {
+      "2021-02-04": 1,
       "2021-01-29": 16,
       "2021-01-26": 18
     }
@@ -46,10 +48,10 @@
     "url": "https://dougdragon.com",
     "icon": "https://favicons.githubusercontent.com/dougdragon.com",
     "slug": "dd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 316,
@@ -58,6 +60,7 @@
     "timeMonth": 285,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2021-02-04": 1,
       "2021-01-29": 15
     }
   },
@@ -66,9 +69,9 @@
     "url": "https://vnux.dev",
     "icon": "https://favicons.githubusercontent.com/vnux.dev",
     "slug": "vnux-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.88%",
@@ -78,6 +81,7 @@
     "timeMonth": 279,
     "timeYear": 291,
     "dailyMinutesDown": {
+      "2021-02-04": 0,
       "2021-01-20": 60
     }
   },
@@ -87,18 +91,18 @@
     "icon": "https://favicons.githubusercontent.com/justblameben4everything.site",
     "slug": "just-blame-ben4-everything",
     "status": "down",
-    "uptime": "81.82%",
+    "uptime": "80.35%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.34%",
-    "uptimeMonth": "78.91%",
-    "uptimeYear": "81.82%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.79%",
+    "uptimeYear": "80.35%",
     "time": 555,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 654,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2021-02-04": 28,
+      "2021-02-04": 958,
       "2021-02-03": 1440,
       "2021-02-02": 1440,
       "2021-02-01": 1440,
