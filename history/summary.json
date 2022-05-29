@@ -11,10 +11,10 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.80%",
     "time": 1271,
-    "timeDay": 1716,
-    "timeWeek": 3760,
-    "timeMonth": 2208,
-    "timeYear": 1362,
+    "timeDay": 840,
+    "timeWeek": 3594,
+    "timeMonth": 2194,
+    "timeYear": 1363,
     "dailyMinutesDown": {
       "2022-05-18": 32,
       "2022-05-15": 41,
@@ -38,8 +38,7 @@
       "2021-06-30": 16,
       "2021-06-22": 26,
       "2021-06-19": 20,
-      "2021-06-16": 21,
-      "2021-05-29": 87
+      "2021-06-16": 21
     }
   },
   {
@@ -54,8 +53,8 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.80%",
     "time": 1270,
-    "timeDay": 1316,
-    "timeWeek": 2625,
+    "timeDay": 900,
+    "timeWeek": 1825,
     "timeMonth": 2074,
     "timeYear": 1381,
     "dailyMinutesDown": {
@@ -83,8 +82,7 @@
       "2021-06-30": 15,
       "2021-06-22": 25,
       "2021-06-19": 19,
-      "2021-06-16": 41,
-      "2021-05-29": 87
+      "2021-06-16": 41
     }
   },
   {
@@ -99,10 +97,10 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.81%",
     "time": 446,
-    "timeDay": 293,
-    "timeWeek": 223,
-    "timeMonth": 676,
-    "timeYear": 491,
+    "timeDay": 41,
+    "timeWeek": 202,
+    "timeMonth": 675,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2022-05-26": 122,
       "2022-05-18": 55,
@@ -134,17 +132,16 @@
     "slug": "vnux-dev",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.83%",
     "time": 471,
-    "timeDay": 260,
-    "timeWeek": 221,
-    "timeMonth": 696,
+    "timeDay": 186,
+    "timeWeek": 208,
+    "timeMonth": 698,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2022-05-28": 12,
       "2022-05-18": 53,
       "2022-05-15": 71,
       "2022-05-12": 19,
@@ -170,18 +167,17 @@
     "icon": "https://favicons.githubusercontent.com/justblameben4everything.online",
     "slug": "just-blame-ben4-everything",
     "status": "up",
-    "uptime": "69.56%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "63.51%",
-    "time": 552,
-    "timeDay": 275,
-    "timeWeek": 177,
+    "uptime": "69.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "63.52%",
+    "time": 551,
+    "timeDay": 136,
+    "timeWeek": 145,
     "timeMonth": 412,
-    "timeYear": 607,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2022-05-28": 12,
       "2022-05-18": 31,
       "2022-05-15": 41,
       "2022-05-12": 19,
@@ -333,8 +329,7 @@
       "2021-06-18": 25,
       "2021-06-16": 19,
       "2021-06-08": 22,
-      "2021-05-30": 1296,
-      "2021-05-29": 478
+      "2021-05-30": 1296
     }
   }
 ]
