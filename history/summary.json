@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.87%",
-    "time": 1503,
-    "timeDay": 2178,
-    "timeWeek": 1834,
-    "timeMonth": 2506,
-    "timeYear": 1520,
+    "time": 1506,
+    "timeDay": 2216,
+    "timeWeek": 1864,
+    "timeMonth": 2465,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2022-08-03": 27,
       "2022-07-28": 17,
@@ -28,8 +28,7 @@
       "2021-12-14": 18,
       "2021-11-13": 22,
       "2021-10-10": 18,
-      "2021-10-05": 71,
-      "2021-09-03": 47
+      "2021-10-05": 71
     }
   },
   {
@@ -43,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.88%",
-    "time": 1527,
-    "timeDay": 2165,
-    "timeWeek": 1885,
-    "timeMonth": 2525,
-    "timeYear": 1501,
+    "time": 1526,
+    "timeDay": 593,
+    "timeWeek": 1740,
+    "timeMonth": 2457,
+    "timeYear": 1487,
     "dailyMinutesDown": {
       "2022-08-03": 27,
       "2022-07-28": 17,
@@ -62,8 +61,7 @@
       "2022-02-26": 46,
       "2021-12-03": 17,
       "2021-10-05": 70,
-      "2021-09-07": 20,
-      "2021-09-03": 20
+      "2021-09-07": 20
     }
   },
   {
@@ -76,12 +74,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 447,
-    "timeDay": 203,
-    "timeWeek": 153,
-    "timeMonth": 232,
-    "timeYear": 346,
+    "timeDay": 184,
+    "timeWeek": 168,
+    "timeMonth": 226,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2022-07-28": 16,
       "2022-05-26": 122,
@@ -93,8 +91,7 @@
       "2022-04-11": 33,
       "2022-04-01": 191,
       "2021-10-10": 17,
-      "2021-09-07": 17,
-      "2021-09-03": 20
+      "2021-09-07": 17
     }
   },
   {
@@ -107,12 +104,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 502,
-    "timeDay": 238,
-    "timeWeek": 230,
-    "timeMonth": 257,
-    "timeYear": 402,
+    "uptimeYear": "99.91%",
+    "time": 501,
+    "timeDay": 98,
+    "timeWeek": 233,
+    "timeMonth": 252,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2022-07-28": 16,
       "2022-05-29": 22,
@@ -122,8 +119,7 @@
       "2022-05-02": 17,
       "2022-04-11": 33,
       "2022-04-01": 142,
-      "2021-10-05": 70,
-      "2021-09-03": 20
+      "2021-10-05": 70
     }
   },
   {
@@ -132,16 +128,16 @@
     "icon": "https://favicons.githubusercontent.com/justblameben4everything.online",
     "slug": "just-blame-ben4-everything",
     "status": "up",
-    "uptime": "74.38%",
+    "uptime": "74.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.91%",
-    "time": 531,
-    "timeDay": 233,
-    "timeWeek": 160,
-    "timeMonth": 287,
-    "timeYear": 366,
+    "uptimeYear": "63.92%",
+    "time": 530,
+    "timeDay": 64,
+    "timeWeek": 154,
+    "timeMonth": 281,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2022-07-28": 15,
       "2022-05-18": 31,
@@ -281,8 +277,7 @@
       "2021-10-31": 1440,
       "2021-10-30": 1110,
       "2021-10-05": 69,
-      "2021-10-01": 17,
-      "2021-09-03": 20
+      "2021-10-01": 17
     }
   }
 ]
