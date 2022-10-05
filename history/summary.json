@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.87%",
-    "time": 1545,
-    "timeDay": 990,
-    "timeWeek": 1110,
-    "timeMonth": 1603,
-    "timeYear": 1564,
+    "time": 1546,
+    "timeDay": 1077,
+    "timeWeek": 1115,
+    "timeMonth": 1574,
+    "timeYear": 1563,
     "dailyMinutesDown": {
       "2022-09-19": 23,
       "2022-09-03": 24,
@@ -29,8 +29,7 @@
       "2022-02-09": 54,
       "2021-12-14": 18,
       "2021-11-13": 22,
-      "2021-10-10": 18,
-      "2021-10-05": 71
+      "2021-10-10": 18
     }
   },
   {
@@ -45,9 +44,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1560,
-    "timeDay": 1973,
-    "timeWeek": 1401,
-    "timeMonth": 1868,
+    "timeDay": 1230,
+    "timeWeek": 1496,
+    "timeMonth": 1878,
     "timeYear": 1551,
     "dailyMinutesDown": {
       "2022-09-03": 24,
@@ -62,8 +61,7 @@
       "2022-05-12": 20,
       "2022-04-01": 147,
       "2022-02-26": 46,
-      "2021-12-03": 17,
-      "2021-10-05": 70
+      "2021-12-03": 17
     }
   },
   {
@@ -78,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 429,
-    "timeDay": 98,
-    "timeWeek": 191,
-    "timeMonth": 216,
+    "timeDay": 258,
+    "timeWeek": 206,
+    "timeMonth": 218,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2022-09-03": 23,
@@ -108,10 +106,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 493,
-    "timeDay": 125,
-    "timeWeek": 170,
-    "timeMonth": 246,
-    "timeYear": 389,
+    "timeDay": 246,
+    "timeWeek": 192,
+    "timeMonth": 250,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2022-09-03": 23,
       "2022-07-28": 16,
@@ -121,8 +119,7 @@
       "2022-05-12": 19,
       "2022-05-02": 17,
       "2022-04-11": 33,
-      "2022-04-01": 142,
-      "2021-10-05": 70
+      "2022-04-01": 142
     }
   },
   {
@@ -131,18 +128,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/justblameben4everything.online.ico",
     "slug": "just-blame-ben4-everything",
     "status": "down",
-    "uptime": "74.92%",
+    "uptime": "74.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.76%",
-    "uptimeMonth": "84.53%",
-    "uptimeYear": "62.63%",
-    "time": 495,
+    "uptimeWeek": "18.52%",
+    "uptimeMonth": "81.25%",
+    "uptimeYear": "62.36%",
+    "time": 496,
     "timeDay": 0,
-    "timeWeek": 182,
-    "timeMonth": 207,
+    "timeWeek": 243,
+    "timeMonth": 212,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2022-10-04": 105,
+      "2022-10-05": 101,
+      "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
@@ -285,8 +283,7 @@
       "2021-11-02": 1440,
       "2021-11-01": 1440,
       "2021-10-31": 1440,
-      "2021-10-30": 1110,
-      "2021-10-05": 69
+      "2021-10-30": 1110
     }
   }
 ]
