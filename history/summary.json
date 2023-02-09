@@ -10,11 +10,11 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.87%",
-    "time": 1598,
-    "timeDay": 2155,
-    "timeWeek": 1626,
-    "timeMonth": 1726,
-    "timeYear": 1816,
+    "time": 1600,
+    "timeDay": 3626,
+    "timeWeek": 1631,
+    "timeMonth": 1750,
+    "timeYear": 1818,
     "dailyMinutesDown": {
       "2023-02-08": 45,
       "2023-01-30": 23,
@@ -31,8 +31,7 @@
       "2022-05-15": 41,
       "2022-05-12": 63,
       "2022-04-01": 126,
-      "2022-02-26": 77,
-      "2022-02-09": 54
+      "2022-02-26": 77
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.85%",
-    "time": 1516,
-    "timeDay": 994,
-    "timeWeek": 1172,
-    "timeMonth": 1352,
-    "timeYear": 1622,
+    "time": 1517,
+    "timeDay": 1160,
+    "timeWeek": 1058,
+    "timeMonth": 1319,
+    "timeYear": 1620,
     "dailyMinutesDown": {
       "2023-02-08": 16,
       "2023-01-30": 22,
@@ -83,9 +82,9 @@
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.86%",
-    "time": 326,
-    "timeDay": 215,
-    "timeWeek": 220,
+    "time": 327,
+    "timeDay": 178,
+    "timeWeek": 219,
     "timeMonth": 442,
     "timeYear": 321,
     "dailyMinutesDown": {
@@ -116,10 +115,10 @@
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.88%",
-    "time": 388,
-    "timeDay": 221,
-    "timeWeek": 221,
-    "timeMonth": 600,
+    "time": 387,
+    "timeDay": 248,
+    "timeWeek": 236,
+    "timeMonth": 606,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2023-02-08": 55,
@@ -144,14 +143,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/justblameben4everything.site.ico",
     "slug": "just-blame-ben4-everything",
     "status": "up",
-    "uptime": "78.08%",
+    "uptime": "78.09%",
     "uptimeDay": "97.23%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "88.34%",
-    "time": 424,
-    "timeDay": 1701,
-    "timeWeek": 695,
+    "uptimeYear": "88.43%",
+    "time": 423,
+    "timeDay": 3181,
+    "timeWeek": 701,
     "timeMonth": 779,
     "timeYear": 430,
     "dailyMinutesDown": {
@@ -205,8 +204,7 @@
       "2022-02-13": 1440,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
-      "2022-02-10": 1440,
-      "2022-02-09": 1440
+      "2022-02-10": 1440
     }
   }
 ]
