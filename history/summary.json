@@ -11,10 +11,10 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.88%",
     "time": 1602,
-    "timeDay": 720,
-    "timeWeek": 1071,
-    "timeMonth": 1663,
-    "timeYear": 1817,
+    "timeDay": 1169,
+    "timeWeek": 1088,
+    "timeMonth": 1670,
+    "timeYear": 1818,
     "dailyMinutesDown": {
       "2023-02-08": 45,
       "2023-01-30": 23,
@@ -46,8 +46,8 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.85%",
     "time": 1509,
-    "timeDay": 801,
-    "timeWeek": 911,
+    "timeDay": 917,
+    "timeWeek": 808,
     "timeMonth": 1235,
     "timeYear": 1609,
     "dailyMinutesDown": {
@@ -83,9 +83,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.86%",
     "time": 325,
-    "timeDay": 276,
-    "timeWeek": 349,
-    "timeMonth": 478,
+    "timeDay": 293,
+    "timeWeek": 365,
+    "timeMonth": 479,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2023-02-08": 55,
@@ -116,9 +116,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.88%",
     "time": 370,
-    "timeDay": 249,
-    "timeWeek": 226,
-    "timeMonth": 602,
+    "timeDay": 319,
+    "timeWeek": 247,
+    "timeMonth": 603,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2023-02-08": 55,
@@ -143,15 +143,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/justblameben4everything.site.ico",
     "slug": "just-blame-ben4-everything",
     "status": "up",
-    "uptime": "78.28%",
+    "uptime": "78.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "90.35%",
-    "time": 428,
-    "timeDay": 234,
-    "timeWeek": 416,
-    "timeMonth": 817,
+    "uptimeYear": "90.62%",
+    "time": 427,
+    "timeDay": 273,
+    "timeWeek": 437,
+    "timeMonth": 816,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2023-02-08": 40,
@@ -196,8 +196,7 @@
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
-      "2022-02-18": 1440,
-      "2022-02-17": 1440
+      "2022-02-18": 1440
     }
   }
 ]
