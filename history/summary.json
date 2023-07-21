@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1710,
-    "timeDay": 2387,
-    "timeWeek": 2449,
-    "timeMonth": 2000,
-    "timeYear": 1676,
+    "timeDay": 2489,
+    "timeWeek": 2356,
+    "timeMonth": 1994,
+    "timeYear": 1680,
     "dailyMinutesDown": {
       "2023-03-26": 18,
       "2023-03-24": 16,
@@ -31,8 +31,7 @@
       "2022-09-19": 23,
       "2022-09-03": 24,
       "2022-08-03": 27,
-      "2022-07-28": 17,
-      "2022-07-21": 57
+      "2022-07-28": 17
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.89%",
-    "time": 1487,
-    "timeDay": 365,
-    "timeWeek": 1542,
-    "timeMonth": 1406,
-    "timeYear": 1407,
+    "time": 1488,
+    "timeDay": 1772,
+    "timeWeek": 1384,
+    "timeMonth": 1413,
+    "timeYear": 1406,
     "dailyMinutesDown": {
       "2023-07-02": 15,
       "2023-03-26": 17,
@@ -67,8 +66,7 @@
       "2022-11-10": 3,
       "2022-09-03": 24,
       "2022-08-03": 27,
-      "2022-07-28": 17,
-      "2022-07-21": 57
+      "2022-07-28": 17
     }
   },
   {
@@ -83,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 337,
-    "timeDay": 89,
-    "timeWeek": 136,
-    "timeMonth": 172,
+    "timeDay": 318,
+    "timeWeek": 145,
+    "timeMonth": 174,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2023-03-26": 17,
@@ -111,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 374,
-    "timeDay": 69,
-    "timeWeek": 126,
-    "timeMonth": 173,
-    "timeYear": 351,
+    "timeDay": 317,
+    "timeWeek": 139,
+    "timeMonth": 176,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2023-04-19": 43,
       "2023-03-26": 16,
@@ -135,15 +133,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/justblameben4everything.site.ico",
     "slug": "just-blame-ben4-everything",
     "status": "up",
-    "uptime": "81.87%",
+    "uptime": "81.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.58%",
     "time": 368,
-    "timeDay": 130,
-    "timeWeek": 120,
-    "timeMonth": 155,
+    "timeDay": 268,
+    "timeWeek": 127,
+    "timeMonth": 156,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2023-04-19": 22,
