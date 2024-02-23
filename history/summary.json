@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.91%",
-    "time": 1694,
-    "timeDay": 2591,
-    "timeWeek": 2738,
-    "timeMonth": 2061,
-    "timeYear": 1719,
+    "time": 1695,
+    "timeDay": 1380,
+    "timeWeek": 2594,
+    "timeMonth": 2055,
+    "timeYear": 1718,
     "dailyMinutesDown": {
       "2024-02-09": 104,
       "2023-12-27": 28,
@@ -24,8 +24,7 @@
       "2023-03-24": 16,
       "2023-03-18": 18,
       "2023-03-10": 21,
-      "2023-03-09": 38,
-      "2023-02-23": 33
+      "2023-03-09": 38
     }
   },
   {
@@ -39,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
-    "time": 1300,
-    "timeDay": 1685,
-    "timeWeek": 1567,
-    "timeMonth": 1658,
-    "timeYear": 1291,
+    "time": 1301,
+    "timeDay": 1566,
+    "timeWeek": 1736,
+    "timeMonth": 1654,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2024-02-09": 104,
       "2023-12-27": 27,
@@ -54,8 +53,7 @@
       "2023-03-24": 16,
       "2023-03-18": 18,
       "2023-03-10": 21,
-      "2023-03-09": 38,
-      "2023-02-23": 33
+      "2023-03-09": 38
     }
   },
   {
@@ -69,10 +67,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 297,
-    "timeDay": 296,
-    "timeWeek": 221,
-    "timeMonth": 180,
+    "time": 296,
+    "timeDay": 215,
+    "timeWeek": 232,
+    "timeMonth": 177,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2023-12-27": 27,
@@ -89,15 +87,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/justblameben4everything.online.ico",
     "slug": "just-blame-ben4-everything",
     "status": "up",
-    "uptime": "85.07%",
+    "uptime": "85.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
-    "time": 361,
-    "timeDay": 267,
-    "timeWeek": 180,
-    "timeMonth": 169,
+    "time": 360,
+    "timeDay": 145,
+    "timeWeek": 183,
+    "timeMonth": 164,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2023-12-27": 26,
