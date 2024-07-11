@@ -1,7 +1,7 @@
 url: https://h2health.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-11T13:11:19.012Z
+status: up
+code: 200
+responseTime: 1902
+lastUpdated: 2024-07-11T14:47:05.272Z
 startTime: 2020-12-30T17:55:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
