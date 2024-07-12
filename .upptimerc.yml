@@ -10,9 +10,7 @@ sites:
     url: https://www.pembroke-animal-hospital.com/
   - name: DD
     url: https://dougdragon.com
-  - name: JustBlameBen4Everything
-    url: https://justblameben4everything.online
- 
+
 assignees:
   - dougdragon
 
