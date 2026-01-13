@@ -6,10 +6,13 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: H2Health
     url: https://h2health.org
+    maxResponseTime: 10000
   - name: PAH
     url: https://www.pembroke-animal-hospital.com/
+    maxResponseTime: 10000
   - name: DD
     url: https://dougdragon.com
+    maxResponseTime: 10000
 
 assignees:
   - dougdragon
