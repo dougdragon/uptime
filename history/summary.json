@@ -6,14 +6,14 @@
     "slug": "h2-health",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "97.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.38%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "99.65%",
     "time": 853,
-    "timeDay": 1277,
-    "timeWeek": 986,
-    "timeMonth": 904,
+    "timeDay": 929,
+    "timeWeek": 982,
+    "timeMonth": 901,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2026-02-17": 107,
@@ -59,8 +59,7 @@
       "2025-07-30": 30,
       "2025-06-29": 34,
       "2025-05-21": 45,
-      "2025-02-20": 17,
-      "2025-02-19": 52
+      "2025-02-20": 17
     }
   },
   {
@@ -70,14 +69,14 @@
     "slug": "pah",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "92.63%",
-    "uptimeWeek": "97.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.42%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.65%",
     "time": 1168,
-    "timeDay": 1356,
-    "timeWeek": 1769,
-    "timeMonth": 1381,
+    "timeDay": 1310,
+    "timeWeek": 1865,
+    "timeMonth": 1376,
     "timeYear": 1262,
     "dailyMinutesDown": {
       "2026-02-17": 107,
@@ -121,8 +120,7 @@
       "2025-08-18": 17,
       "2025-06-29": 34,
       "2025-05-21": 25,
-      "2025-02-20": 60,
-      "2025-02-19": 51
+      "2025-02-20": 60
     }
   },
   {
@@ -132,14 +130,14 @@
     "slug": "dd",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "92.73%",
-    "uptimeWeek": "97.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.46%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.68%",
     "time": 211,
-    "timeDay": 276,
-    "timeWeek": 249,
-    "timeMonth": 243,
+    "timeDay": 156,
+    "timeWeek": 246,
+    "timeMonth": 240,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2026-02-17": 104,
@@ -179,8 +177,7 @@
       "2025-10-17": 22,
       "2025-08-18": 16,
       "2025-06-29": 33,
-      "2025-05-21": 24,
-      "2025-02-19": 51
+      "2025-05-21": 24
     }
   }
 ]
