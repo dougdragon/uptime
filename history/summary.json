@@ -6,10 +6,10 @@
     "slug": "h2-health",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.17%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "97.24%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.23%",
     "time": 915,
     "timeDay": 5989,
     "timeWeek": 1210,
@@ -91,7 +91,7 @@
       "2026-05-24": 80,
       "2026-05-26": 91,
       "2026-05-25": 3,
-      "2026-05-31": 10
+      "2026-05-31": 104
     }
   },
   {
@@ -101,10 +101,10 @@
     "slug": "pah",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "98.29%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "97.35%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.26%",
     "time": 1348,
     "timeDay": 2236,
     "timeWeek": 1839,
@@ -184,7 +184,7 @@
       "2026-05-24": 75,
       "2026-05-26": 91,
       "2026-05-25": 1,
-      "2026-05-31": 5
+      "2026-05-31": 99
     }
   },
   {
@@ -194,10 +194,10 @@
     "slug": "dd",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.37%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "97.43%",
     "uptimeMonth": "99.25%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.28%",
     "time": 218,
     "timeDay": 237,
     "timeWeek": 147,
@@ -273,7 +273,7 @@
       "2026-05-03": 49,
       "2026-05-24": 74,
       "2026-05-26": 91,
-      "2026-05-31": 0
+      "2026-05-31": 94
     }
   }
 ]
