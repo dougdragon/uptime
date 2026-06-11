@@ -4,19 +4,18 @@
     "url": "https://h2health.org",
     "icon": "https://icons.duckduckgo.com/ip3/h2health.org.ico",
     "slug": "h2-health",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.03%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "99.21%",
-    "time": 918,
+    "time": 917,
     "timeDay": 934,
     "timeWeek": 1065,
     "timeMonth": 1139,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2025-07-30": 30,
       "2025-08-18": 17,
       "2025-10-17": 23,
       "2025-10-19": 115,
@@ -91,7 +90,8 @@
       "2026-05-24": 80,
       "2026-05-26": 91,
       "2026-05-25": 3,
-      "2026-05-31": 249
+      "2026-05-31": 249,
+      "2026-06-11": 10
     }
   },
   {
@@ -99,13 +99,13 @@
     "url": "https://www.pembroke-animal-hospital.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pembroke-animal-hospital.com.ico",
     "slug": "pah",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.06%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.23%",
-    "time": 1350,
+    "time": 1351,
     "timeDay": 369,
     "timeWeek": 1178,
     "timeMonth": 1725,
@@ -184,7 +184,8 @@
       "2026-05-24": 75,
       "2026-05-26": 91,
       "2026-05-25": 1,
-      "2026-05-31": 244
+      "2026-05-31": 244,
+      "2026-06-11": 5
     }
   },
   {
@@ -192,9 +193,9 @@
     "url": "https://dougdragon.com",
     "icon": "https://icons.duckduckgo.com/ip3/dougdragon.com.ico",
     "slug": "dd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.25%",
@@ -273,7 +274,8 @@
       "2026-05-03": 49,
       "2026-05-24": 74,
       "2026-05-26": 91,
-      "2026-05-31": 239
+      "2026-05-31": 239,
+      "2026-06-11": 0
     }
   }
 ]
