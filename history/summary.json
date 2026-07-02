@@ -4,19 +4,18 @@
     "url": "https://h2health.org",
     "icon": "https://icons.duckduckgo.com/ip3/h2health.org.ico",
     "slug": "h2-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "99.15%",
-    "time": 920,
-    "timeDay": 1013,
-    "timeWeek": 932,
-    "timeMonth": 956,
-    "timeYear": 945,
+    "time": 921,
+    "timeDay": 0,
+    "timeWeek": 784,
+    "timeMonth": 928,
+    "timeYear": 946,
     "dailyMinutesDown": {
-      "2025-10-21": 15,
       "2025-11-15": 49,
       "2025-11-16": 25,
       "2025-11-17": 49,
@@ -92,7 +91,8 @@
       "2026-06-21": 74,
       "2026-06-24": 239,
       "2026-06-26": 1,
-      "2026-06-25": 43
+      "2026-06-25": 43,
+      "2026-07-02": 10
     }
   },
   {
@@ -100,19 +100,18 @@
     "url": "https://www.pembroke-animal-hospital.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pembroke-animal-hospital.com.ico",
     "slug": "pah",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "99.15%",
-    "time": 1381,
-    "timeDay": 2287,
-    "timeWeek": 2079,
-    "timeMonth": 1696,
-    "timeYear": 1441,
+    "time": 1379,
+    "timeDay": 0,
+    "timeWeek": 2076,
+    "timeMonth": 1682,
+    "timeYear": 1442,
     "dailyMinutesDown": {
-      "2025-08-18": 17,
       "2025-10-17": 22,
       "2025-10-19": 115,
       "2025-10-21": 15,
@@ -189,7 +188,8 @@
       "2026-06-21": 70,
       "2026-06-24": 234,
       "2026-06-26": 1,
-      "2026-06-25": 38
+      "2026-06-25": 38,
+      "2026-07-02": 5
     }
   },
   {
@@ -197,16 +197,16 @@
     "url": "https://dougdragon.com",
     "icon": "https://icons.duckduckgo.com/ip3/dougdragon.com.ico",
     "slug": "dd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.34%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.17%",
     "time": 218,
-    "timeDay": 262,
-    "timeWeek": 177,
-    "timeMonth": 178,
+    "timeDay": 0,
+    "timeWeek": 208,
+    "timeMonth": 176,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-08-18": 16,
@@ -282,7 +282,8 @@
       "2026-06-21": 65,
       "2026-06-24": 230,
       "2026-06-26": 1,
-      "2026-06-25": 33
+      "2026-06-25": 33,
+      "2026-07-02": 0
     }
   }
 ]
