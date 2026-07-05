@@ -6,10 +6,10 @@
     "slug": "h2-health",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "95.03%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "99.12%",
+    "uptimeDay": "89.45%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "99.10%",
     "time": 928,
     "timeDay": 1333,
     "timeWeek": 1167,
@@ -93,7 +93,7 @@
       "2026-07-02": 106,
       "2026-07-03": 89,
       "2026-07-04": 62,
-      "2026-07-05": 10
+      "2026-07-05": 90
     }
   },
   {
@@ -103,10 +103,10 @@
     "slug": "pah",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "95.70%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "98.39%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "90.12%",
+    "uptimeWeek": "96.75%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "99.12%",
     "time": 1342,
     "timeDay": 2218,
     "timeWeek": 1985,
@@ -190,7 +190,7 @@
       "2026-07-02": 101,
       "2026-07-03": 84,
       "2026-07-04": 57,
-      "2026-07-05": 5
+      "2026-07-05": 85
     }
   },
   {
@@ -200,10 +200,10 @@
     "slug": "dd",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "90.79%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.12%",
     "time": 217,
     "timeDay": 76,
     "timeWeek": 200,
@@ -285,7 +285,7 @@
       "2026-07-02": 96,
       "2026-07-03": 79,
       "2026-07-04": 52,
-      "2026-07-05": 0
+      "2026-07-05": 81
     }
   }
 ]
