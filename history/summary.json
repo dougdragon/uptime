@@ -4,17 +4,17 @@
     "url": "https://h2health.org",
     "icon": "https://icons.duckduckgo.com/ip3/h2health.org.ico",
     "slug": "h2-health",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "98.94%",
     "time": 966,
-    "timeDay": 0,
-    "timeWeek": 1220,
-    "timeMonth": 1141,
-    "timeYear": 1031,
+    "timeDay": 630,
+    "timeWeek": 1136,
+    "timeMonth": 1125,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2025-12-20": 16,
       "2025-12-23": 28,
@@ -97,7 +97,7 @@
       "2026-09-17": 56,
       "2026-09-16": 14,
       "2026-09-23": 48,
-      "2026-10-12": 10
+      "2026-10-12": 18
     }
   },
   {
@@ -105,17 +105,17 @@
     "url": "https://www.pembroke-animal-hospital.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pembroke-animal-hospital.com.ico",
     "slug": "pah",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "98.98%",
-    "time": 1499,
-    "timeDay": 0,
-    "timeWeek": 2311,
-    "timeMonth": 2075,
-    "timeYear": 1638,
+    "time": 1502,
+    "timeDay": 2368,
+    "timeWeek": 2319,
+    "timeMonth": 2084,
+    "timeYear": 1639,
     "dailyMinutesDown": {
       "2025-12-18": 22,
       "2025-12-19": 40,
@@ -199,7 +199,7 @@
       "2026-09-17": 56,
       "2026-09-16": 9,
       "2026-09-23": 43,
-      "2026-10-12": 5
+      "2026-10-12": 13
     }
   },
   {
@@ -207,16 +207,16 @@
     "url": "https://dougdragon.com",
     "icon": "https://icons.duckduckgo.com/ip3/dougdragon.com.ico",
     "slug": "dd",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "98.99%",
-    "time": 217,
-    "timeDay": 0,
-    "timeWeek": 227,
-    "timeMonth": 198,
+    "time": 216,
+    "timeDay": 317,
+    "timeWeek": 240,
+    "timeMonth": 201,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-12-17": 83,
@@ -299,7 +299,7 @@
       "2026-09-17": 56,
       "2026-09-16": 4,
       "2026-09-23": 38,
-      "2026-10-12": 0
+      "2026-10-12": 8
     }
   }
 ]
